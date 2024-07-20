@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a passionate software developer with experience in relational databases using Mongoose and Django. I love exploring new technologies and working on challenging and innovative projects.
+I'm a passionate UI software developer with experience in relational databases using Mongoose and Django. I love exploring new technologies and working on challenging and innovative projects.
 
 - 🔭 I’m currently working on improving my skills in web development.
 - 🌱 I’m currently learning more about cloud computing and DevOps.
