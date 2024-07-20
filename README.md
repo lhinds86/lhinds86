@@ -9,8 +9,6 @@ I'm a passionate UI software developer with experience in relational databases u
 
 - 🔭 I’m currently working on improving my skills in web development.
 - 🌱 I’m currently learning more about cloud computing and DevOps.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about web development, databases, and software engineering.
 - 📫 How to reach me: [Email](mailto:leonhinds1986@gmail.com)
 # 💻 Tech Stack:
 <p align="left">
